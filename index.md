@@ -6,5 +6,9 @@ Captain Falcon is the main playable racer from the F-Zero series of futuristic N
 * Heavy
 * Large
 * Offensive
+
+
 Best quote:
 > Show me your moves
+
+<img src="https://www.ssbwiki.com/images/d/da/Captain_Falcon_SSBU.png"/>
