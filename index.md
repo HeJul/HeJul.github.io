@@ -6,6 +6,5 @@ Captain Falcon is the main playable racer from the F-Zero series of futuristic N
 * Heavy
 * Large
 * Offensive
-
 Best quote:
 > *Show me your moves*
