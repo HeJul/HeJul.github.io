@@ -11,4 +11,4 @@ Captain Falcon is the main playable racer from the F-Zero series of futuristic N
 Best quote:
 > Show me your moves
 
-<imgsrc="https://www.ssbwiki.com/images/d/da/Captain_Falcon_SSBU.png"/>
+<img src="https://www.ssbwiki.com/images/d/da/Captain_Falcon_SSBU.png"/>
